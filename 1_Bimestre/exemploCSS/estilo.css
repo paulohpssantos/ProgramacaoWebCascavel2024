@@ -1,0 +1,24 @@
+h1{
+    color:blue;
+    font-size: 120px;
+}
+
+.titulo{
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 80px;
+}
+
+table{
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+
+td{
+    border: 3px solid black;
+}
+
+.tituloTabela{
+    background-color: blue;
+    color: white;
+}
